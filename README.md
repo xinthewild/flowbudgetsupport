@@ -33,10 +33,10 @@ We read everything.
 🔐 Privacy Questions
 We take privacy seriously.
 Read our full policy here:
-https://flowapp.com/privacy
+https://xinthewild.github.io
 📩 Contact
 For all support requests:
-support@flowapp.com
+kai.x626@icloud.com
 Typical response time: 24–72 hours
 🧠 Tip
 When reporting a bug, include:
