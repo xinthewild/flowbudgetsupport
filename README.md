@@ -4,7 +4,7 @@ Flow — Support
 If you’re having issues with Flow, we’re here to help.
 Please contact us and we’ll respond as soon as possible.
 Support Email:
-support@flowapp.com
+kai.x626@icloud.com
 🛠 Common Issues
 1. App not loading or crashing
 Try:
